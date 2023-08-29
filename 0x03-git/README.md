@@ -1,1 +1,2 @@
-0x03-git readme for alx
+my first readme
+how to be up to date
